@@ -1,0 +1,49 @@
+Thread 3 is trying to access the resouce.
+Thread 3 has the resouce.
+Thread 2 is trying to access the resouce.
+   Thread 2 is starved. Trying again in 2 sec.
+Thread 3 is releasing the resouce.
+Thread 1 is trying to access the resouce.
+Thread 1 has the resouce.
+Thread 2 is trying to access the resouce.
+   Thread 2 is starved. Trying again in 2 sec.
+Thread 3 is trying to access the resouce.
+   Thread 3 is starved. Trying again in 2 sec.
+Thread 1 is releasing the resouce.
+Thread 2 is trying to access the resouce.
+Thread 2 has the resouce.
+Thread 2 is releasing the resouce.
+Thread 3 is trying to access the resouce.
+Thread 3 has the resouce.
+Thread 3 is releasing the resouce.
+Thread 2 is trying to access the resouce.
+Thread 2 has the resouce.
+Thread 3 is trying to access the resouce.
+   Thread 3 is starved. Trying again in 2 sec.
+Thread 2 is releasing the resouce.
+Thread 1 is trying to access the resouce.
+Thread 1 has the resouce.
+Thread 3 is trying to access the resouce.
+   Thread 3 is starved. Trying again in 2 sec.
+Thread 2 is trying to access the resouce.
+   Thread 2 is starved. Trying again in 2 sec.
+Thread 3 is trying to access the resouce.
+   Thread 3 is starved. Trying again in 2 sec.
+Thread 2 is trying to access the resouce.
+   Thread 2 is starved. Trying again in 2 sec.
+Thread 1 is releasing the resouce.
+Thread 3 is trying to access the resouce.
+Thread 3 has the resouce.
+Thread 2 is trying to access the resouce.
+   Thread 2 is starved. Trying again in 2 sec.
+Thread 3 is releasing the resouce.
+*****
+List:
+Thread 3
+Thread 1
+Thread 2
+Thread 3
+Thread 2
+Thread 1
+Thread 3
+*****
